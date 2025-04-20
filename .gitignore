@@ -1,0 +1,17 @@
+# Generated files to ignore
+
+/build/
+/bin/
+*.o
+*.so
+*.exe
+
+# Emacs files to ignore
+
+*~
+\#*#
+.\#*
+.emacs.d
+.emacs.desktop
+.emacs.desktop.lock
+.tramp
