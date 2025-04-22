@@ -6,6 +6,7 @@ int main(int argc, char *argv[])
 {
     printArgs(argc, argv);
     printMsg("Hello World");
+    printMsg("We are on the feature/addMessages branch");
     return EXIT_SUCCESS;
 }
 
